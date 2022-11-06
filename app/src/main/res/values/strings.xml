@@ -1,41 +1,41 @@
 <resources>
     <string name="app_name">App Notas</string>
-    <string name="tasks">Tasks</string>
+    <string name="tasks">Tareas</string>
     <string name="snackbarok">OK</string>
-    <string name="storage_permission_text">This App Needs access to your Storage.</string>
-    <string name="search_notes">Search Notes</string>
-    <string name="notes">Notes</string>
-    <string name="my_notes">My Notes</string>
-    <string name="date">Date</string>
-    <string name="notes_title">Notes Title</string>
+    <string name="storage_permission_text">Esta aplicación necesita acceso a tu almacenamiento.</string>
+    <string name="search_notes">Buscar notas</string>
+    <string name="notes">Notas</string>
+    <string name="my_notes">Mis notas</string>
+    <string name="date">Fecha</string>
+    <string name="notes_title">Título de la nota</string>
     <string name="https">https://</string>
-    <string name="cancel">Cancel</string>
+    <string name="cancel">Cancelar</string>
     <string name="ok">Ok</string>
-    <string name="enter_notes_here">Enter Notes Here</string>
+    <string name="enter_notes_here">Escriba su nota</string>
     <string name="bottom_bar">bottom bar</string>
-    <string name="mynotes">MyNotes</string>
+    <string name="mynotes">MisNotas</string>
 
     <string name="noteID">noteId</string>
-    <string name="url_require">Url is Required</string>
-    <string name="url_validation">Url is not Valid</string>
-    <string name="title_require">Title is Required</string>
-    <string name="empty_note_description_warning">Notes Description Must Not Be Empty</string>
+    <string name="url_require">Url es Requireda</string>
+    <string name="url_validation">Url no Valida</string>
+    <string name="title_require">Título es Requerido</string>
+    <string name="empty_note_description_warning">La descipción no debe estar vacía</string>
 
-    <string name="action">action</string>
+    <string name="action">acción</string>
     <string name="bottom_sheet_action">bottom_sheet_action</string>
     <string name="selected_color">selectedColor</string>
 
-    <string name="blue">Blue</string>
+    <string name="blue">Azul</string>
     <string name="cyan">Cyan</string>
-    <string name="green">Green</string>
-    <string name="orange">Orange</string>
-    <string name="purple">Purple</string>
-    <string name="red">Red</string>
-    <string name="yellow">Yellow</string>
-    <string name="brown">Brown</string>
+    <string name="green">Verde</string>
+    <string name="orange">Naranja</string>
+    <string name="purple">Purpura</string>
+    <string name="red">Rojo</string>
+    <string name="yellow">Amarillo</string>
+    <string name="brown">Cafe</string>
     <string name="indigo">Indigo</string>
-    <string name="image">Image</string>
+    <string name="image">Imagen</string>
     <string name="webUrl">WebUrl</string>
-    <string name="deleteNote">DeleteNote</string>
+    <string name="deleteNote">BorrarNota</string>
 
 </resources>

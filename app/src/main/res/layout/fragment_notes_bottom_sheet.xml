@@ -271,7 +271,7 @@
                     android:fontFamily="@font/exo2variablefont"
                     android:paddingLeft="10sp"
                     android:paddingRight="10sp"
-                    android:text="Add Image"
+                    android:text="Agregar imagen"
                     android:textAlignment="center"
                     android:textColor="@color/white"
                     android:textSize="18sp" />
@@ -299,7 +299,7 @@
                     android:fontFamily="@font/exo2variablefont"
                     android:paddingLeft="10sp"
                     android:paddingRight="10sp"
-                    android:text="Add Web Link"
+                    android:text="Agregar Link"
                     android:textAlignment="center"
                     android:textColor="@color/white"
                     android:textSize="18sp" />
